@@ -5,19 +5,7 @@ escolhida e efetuar o cálculo adequado*/
 
 #include <stdio.h>
 #include <iostream>
-#include <locale>
-
-#define BLK "\e[0;30m"
-#define RED "\e[0;31m"
-#define GRN "\e[0;32m"
-#define YEL "\e[0;33m"
-#define BLU "\e[0;34m"
-#define MAG "\e[0;35m"
-#define CYN "\e[0;36m"
-#define WHT "\e[0;37m"
-#define END "\e[0;0m"
-
-#define MESSAGE_RED(X) printf("%s %s %s",RED,X,END)
+#include <locale.h>
 
 float product_price(void){
 	float price;
