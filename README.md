@@ -1,0 +1,2 @@
+# Projeto-Integrado-ADS.2
+ElaboreumprogramaemC/C++quecalculeoquedeveserpagoporumproduto,considerandoopreçonormaldeetiquetaeaescolhadacondiçãodepagamento.Utilizeoscódigosdatabelaaseguirparalerqualacondiçãodepagamentoescolhidaeefetuarocálculoadequado.
